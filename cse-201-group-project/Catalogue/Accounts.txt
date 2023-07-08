@@ -1,0 +1,6 @@
+brendanhan~TestPw2~true
+julial123~Juliaspassword000~true
+testUser000~hahaha000~false
+testing~test12345~false
+AndrewRocks~brownssux2022~false
+andrew~123passwordP~false
